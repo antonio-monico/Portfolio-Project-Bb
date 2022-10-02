@@ -1,0 +1,18 @@
+h1,h2 {
+    font-family: "Space Grotesk",sans-serif;
+}
+
+.jumbotron {
+    padding: 20px;
+    color:rgb(141, 92, 33);
+    background-color:rgb(163, 161, 157);
+    text-align:center;
+    margin: 0; 
+}
+header h1 {
+    font-size: 70px;
+}
+
+header h2 {
+    font-size: 50px;
+}
