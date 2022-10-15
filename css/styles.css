@@ -1,4 +1,9 @@
-h1,h2 {
+html {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+h1,h2, .card-header {
     font-family: "Space Grotesk",sans-serif;
 }
 
@@ -37,4 +42,36 @@ header h2 {
     background-color: rgb(141, 92, 33);
     margin-bottom: 20px;
     
+}
+
+.adopt-card {
+    margin:10px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.adopt-header{
+    font-size: 50px;
+    font-family: "Space Grotesk",sans-serif;
+}
+
+.row-content {
+    padding: 10px;
+    }
+
+
+#donateModal .modal-header {
+    background-color:rgb(141, 92, 33);
+    color:black;
+}
+
+#eventModal .modal-header {
+    background-color:rgb(141, 92, 33);
+    color:black;
+}
+
+#eventModal .modal-body{
+    position:center;
 }
