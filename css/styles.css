@@ -44,6 +44,11 @@ header h2 {
     
 }
 
+.site-footer {
+    background-image: linear-gradient(#debbaa, white);
+    padding: 20px;  }
+  
+
 .adopt-card {
     margin:10px;
 }
@@ -75,3 +80,4 @@ header h2 {
 #eventModal .modal-body{
     position:center;
 }
+
